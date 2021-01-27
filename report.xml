@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.319">
+<testcase classname="Amazon Login Test" name="Basarili  Login islemi" time="16.174">
+<system-out><![CDATA[When Tarayiciya baglanilir..................................................passed
+When Siteye Login yapilir...................................................passed
+When Kategorilere tiklanir..................................................passed
+When Bilgisayar Secilir.....................................................passed
+When Arama msi yazilir......................................................passed
+When Arama yapilir..........................................................passed
+When Cerezler kapatilir.....................................................passed
+When sayfa secilir..........................................................passed
+When Urun Secilir...........................................................passed
+When urun sepete eklenir....................................................passed
+When sepete gidilir.........................................................passed
+When Eklenen urun sepetten silinir..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
